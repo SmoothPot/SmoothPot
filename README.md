@@ -1,7 +1,7 @@
-**-** 👋 Hi, I’m @SmoothPot  
+**-** 👋 Hi, I’m [@SmoothPot](https://github.com/SmoothPot)  
 **-** 👀 I’m interested in making plugins  
-**-** 🌱 I’m currently learning JAVA  
-**-** 📫 How to reach me discord : SmoothPot#7804    
+**-** 🌱 I’m currently learning [Java](https://www.java.com/en/download/help/whatis_java.html)  
+**-** 📫 How to reach me discord : `SmoothPot#7804`  
 
 
 ![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=Java&logoColor=white&color=339933)
